@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">habilidades = array[<br><br>"Desenvolvedor estagiário",</h4>
+<h4 align="left">habilidades = [<br><br>"Desenvolvedor Back-end",</h4>
 
 ###
 
