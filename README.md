@@ -3,7 +3,7 @@
 </div>
 </div>
 
-#### Me chamo Yago, um estudante entusiasta de 20 anos,<br/> atualmente cursando Análise e Desenvolvimento de Sistemas. <br/> Sou apaixonado por tecnologia e estou em busca de uma oportunidade <br/> para aplicar e expandir meus conhecimentos na área.
+#### Me chamo Yago, um estudante entusiasta de 21 anos,<br/> atualmente cursando Análise e Desenvolvimento de Sistemas. <br/> Sou apaixonado por tecnologia e estou em busca de uma oportunidade <br/> para aplicar e expandir meus conhecimentos na área.
 ---
 #### Redes Sociais e formas de contato:
 
