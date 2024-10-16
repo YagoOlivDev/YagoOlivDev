@@ -5,7 +5,7 @@
 ###
 
 <h2 align="left">About Me</h2>
-<p align="left">-  Full-stack Developer<br>- Developer em formação<br>- Graduando em ADS</p>
+<p align="left">-  Me chamo Yago<br>- FullStack Developer<br>- Graduando em ADS</p>
 
 ###
 
