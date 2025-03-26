@@ -5,7 +5,7 @@
 ###
 
 <h2 align="left">About Me</h2>
-<p align="left">-  Hello, World!<br>- FullStack Developer<br>- Graduando em ADS</p>
+<p align="left">-  Hello, World!<br>- FullStack Developer<br>- Desenvolvedor RPA Aprendiz<br>- Formando em Análise e desenvolvimento de sistemas<br>- Graduando Sistemas de Informação</p>
 
 ###
 
